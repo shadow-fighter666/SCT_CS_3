@@ -1,4 +1,4 @@
-# SCT_CS_4
+# SCT_CS_3
 Skillcraft technology internship in cyber security task 3) Build a tool that assesses the strength of a password based on criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters.
 # Password Strength Checker
 
@@ -31,3 +31,7 @@ This Python program evaluates the strength of a password based on several criter
    ```bash
    sudo apt update
    sudo apt install python3
+3. **Run the code/tool.**
+   ```bash
+   python SCT_CS_3
+
